@@ -1,6 +1,3 @@
-Widzę na zrzucie – brakowało zamknięcia bloku kodu (trzech grawisów ```) zaraz po grafie ASCII, przez co GitHub potraktował cały resztę tekstu jako jeden wielki ciąg kodu i rozjechał nagłówki.
-
-Oto naprawiona, czyściutka wersja. Wklej ten kod bezpośrednio do edytora na GitHubie (zastąp całą zawartość):
 
 ```markdown
 # 🛠️ Hybrid Infrastructure Management & Telemetry with Azure Arc and Log Analytics
