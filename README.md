@@ -145,7 +145,7 @@ FailedLogons
 
 ## 📸 Screenshots & Proof of Work
 
-* `01_azure_arc_machines.png` – Both endpoints showing `Connected` status with monitoring extension installed.
+* `[Azure Arc Machines](img/01_azure_arc_machines.png)` – Both endpoints showing `Connected` status with monitoring extension installed.
 * `02_kql_logon_audit.png` – Baseline KQL query output aggregating logon events across both nodes.
 * `03_kql_failed_logon_detail.png` – Detailed 4625 output confirming DCR ingestion of controlled test failures.
 * `04_kql_correlation_query.png` – Correlation query joining failed/successful logons in 15-minute windows.
