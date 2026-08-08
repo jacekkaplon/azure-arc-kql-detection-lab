@@ -1,3 +1,8 @@
+# azure-arc-kql-detection-lab
+
+> **Hybrid security logging & detection pipeline connecting on-premises Windows endpoints to Azure Arc, Log Analytics, and KQL for real-time audit querying and attack validation.**
+
+---
 
 ```markdown
 # 🛠️ Hybrid Infrastructure Management & Telemetry with Azure Arc and Log Analytics
